@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>io.primeval</groupId>
 		<artifactId>primeval-parent</artifactId>
-		<version>2-SNAPSHOT</version>
+		<version>3-SNAPSHOT</version>
 		<relativePath />
 	</parent>
 
@@ -16,11 +16,11 @@
 	<description>Primeval JSON Jackson Module for Algebraic DataTypes</description>
 
 	<properties>
-		<primeval-commons.version>1.1.0</primeval-commons.version>
+		<primeval-commons.version>1.2.0-SNAPSHOT</primeval-commons.version>
 		<jackson.version>2.9.1</jackson.version>
 		<primeval-json-jackson.version>1.0.0-SNAPSHOT</primeval-json-jackson.version>
 		<primeval-reflex.version>1.0.0-SNAPSHOT</primeval-reflex.version>
-		<primeval-3rdparty-bom.version>1.0.0</primeval-3rdparty-bom.version>
+		<primeval-3rdparty-bom.version>1.1.0-SNAPSHOT</primeval-3rdparty-bom.version>
 	</properties>
 
 	<dependencies>
